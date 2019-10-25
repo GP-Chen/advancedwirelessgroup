@@ -1,0 +1,54 @@
+- name:  <a href="https://www.ie.cuhk.edu.hk/people/soung.shtml">Prof. LIEW Soung-chang</a>
+  photo: scliew.jpg
+  info: Professor 
+  area: AI-driven Wireless Systems, Industrial IoT, Blockchain
+  email:  soung@ie.cuhk.edu.hk
+  number_educ: 3
+  education1: BS, MS, PhD (MIT)
+  education2: Fellow of IEEE, IET, HKIE
+  education3: Google Scholar’s one of 10 classic papers in the field of Computer Networks and Wireless Communication.
+  education4:  
+  education5: 
+
+- name: <a href="https://www.ie.cuhk.edu.hk/people/hchen.shtml">Prof. CHEN He (Henry)</a> 
+  photo: hchen.jpg
+  info: Research Assistant Professsor
+  area: Industrial IoT, Wireless Communications and Networking 
+  email:  he.chen@ie.cuhk.edu.hk
+  number_educ: 4
+  education1: BEng, MEng (Shandong Uni), Outstanding Master Thesis of Shandong Province 
+  education2: PhD (Sydney Uni)
+  education3: Member of IEEE
+  education4: Best paper award in IEEE WCNC 2018
+
+- name: Dr. WANG Taotao
+  photo: wtt.jpg
+  info: Postdoctoral researcher
+  area: AI technique for wireless communications, Blockchain
+  email: postman511@gmail.com
+  number_educ: 2
+  education1: Bachelor University of Electronic Science and Technology of China (UESTC) 
+  education2: PhD (CUHK) with Prof. LIEW Soung-chang
+  education3:
+
+- name: Dr. PAN Haoyuan
+  photo: haoyuan.jpg
+  info: Postdoctoral researcher 
+  area: Network Coding, Industrial IoT, Age of Information, Low Latency Communications.
+  email: hypan@ie.cuhk.edu.hk
+  number_educ: 1
+  education1: BS (CUHK), PhD (CUHK) with Prof. LIEW Soung-chang
+  education2: 
+  education3:
+  education4:
+
+- name: Dr. YANG Qing
+  photo: yq.jpg
+  info: Postdoctoral researcher 
+  area: Industrial IoT
+  email: yang.qing@hotmail.com
+  number_educ: 2
+  education1: BEng Huazhong University of Science and Technology
+  education2: PhD (CUHK) with Prof. LIEW Soung-chang
+  education3:
+  education4:
